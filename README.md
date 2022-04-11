@@ -17,7 +17,7 @@ Project code for each of the folders at this repo are primarily located under th
     - FreeRTOSConfig.h: slightly changed to increase stack size while using FreeRTOS.
   - workspace/FreeRTOS_`xyz`/Core/Src/
     - main.cpp: per-project main.cpp with test code to test out drivers.
-    - stm32fxx_<GPIO/Interrupt/UART/SPI/I2C>.cpp/.hpp: driver code.
+    - stm32fxx_`GPIO/Interrupt/UART/SPI/I2C`.cpp/.hpp: driver code.
 
 This code-base is still a WIP & I will be updating it as time permits, so it may be a little rough around the edges ;)
 
