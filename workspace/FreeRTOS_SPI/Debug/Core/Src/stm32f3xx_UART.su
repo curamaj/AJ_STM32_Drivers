@@ -1,0 +1,5 @@
+stm32f3xx_UART.cpp:8:1:LabUART::LabUART(LabUART_InitStruct*)	16	static
+stm32f3xx_UART.cpp:128:6:void LabUART::UART_TX_blocking(uint8_t)	120	static
+stm32f3xx_UART.cpp:161:6:void LabUART::UART_TX_nonblocking(uint16_t, QueueHandle_t)	64	static
+stm32f3xx_UART.cpp:194:6:void LabUART::UART_RX_blocking(QueueHandle_t)	120	static
+stm32f3xx_UART.cpp:228:6:void LabUART::UART_RX_nonblocking(QueueHandle_t)	120	static

@@ -1,0 +1,15 @@
+hx8347d.c:124:6:hx8347d_Init	8	static
+hx8347d.c:223:6:hx8347d_DisplayOn	8	static
+hx8347d.c:247:6:hx8347d_DisplayOff	8	static
+hx8347d.c:268:10:hx8347d_GetLcdPixelWidth	4	static
+hx8347d.c:278:10:hx8347d_GetLcdPixelHeight	4	static
+hx8347d.c:288:10:hx8347d_ReadID	8	static
+hx8347d.c:304:6:hx8347d_SetCursor	16	static
+hx8347d.c:319:6:hx8347d_WritePixel	16	static
+hx8347d.c:336:10:hx8347d_ReadPixel	16	static
+hx8347d.c:354:6:hx8347d_WriteReg	16	static
+hx8347d.c:367:10:hx8347d_ReadReg	16	static
+hx8347d.c:381:6:hx8347d_SetDisplayWindow	24	static
+hx8347d.c:408:6:hx8347d_DrawHLine	32	static
+hx8347d.c:436:6:hx8347d_DrawVLine	32	static
+hx8347d.c:460:6:hx8347d_DrawBitmap	24	static

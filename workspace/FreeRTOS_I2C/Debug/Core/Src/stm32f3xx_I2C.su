@@ -1,0 +1,8 @@
+stm32f3xx_I2C.cpp:12:6:void delay_us_i2c(uint16_t)	16	static
+stm32f3xx_I2C.cpp:304:1:LabI2C::LabI2C(LabI2C_InitStruct*)	16	static
+stm32f3xx_I2C.cpp:321:9:uint8_t LabI2C::init_master()	16	static
+stm32f3xx_I2C.cpp:332:9:uint8_t LabI2C::master_write(uint8_t, uint8_t, uint8_t*, bool)	32	static
+stm32f3xx_I2C.cpp:406:9:uint8_t LabI2C::master_read(uint8_t, uint8_t, uint8_t*)	32	static
+stm32f3xx_I2C.cpp:462:9:uint8_t LabI2C::init_slave(uint8_t)	120	static
+stm32f3xx_I2C.cpp:582:11:i2c_state LabI2C::i2cMasterStateMachine()	24	static
+stm32f3xx_I2C.cpp:604:11:i2c_state LabI2C::i2cSlaveStateMachine()	16	static

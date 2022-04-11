@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../../STM32Cube/Repository/STM32Cube_FW_F3_V1.11.3"
+		}
+	],
+	"settings": {}
+}

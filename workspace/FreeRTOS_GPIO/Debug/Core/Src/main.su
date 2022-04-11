@@ -1,0 +1,13 @@
+core_cm4.h:1688:22:void __NVIC_EnableIRQ(IRQn_Type)	16	static
+core_cm4.h:1816:22:void __NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+main.cpp:101:6:void EXTI0_IRQHandler()	16	static
+main.cpp:121:6:void AJ_LED5_Thread1(void*)	112	static
+main.cpp:181:6:void AJ_LED6_Thread2(void*)	112	static
+main.cpp:241:6:void AJ_UserButton_Thread3(void*)	112	static
+main.cpp:295:5:int main()	128	static
+main.cpp:399:6:void SystemClock_Config()	128	static
+main.cpp:442:13:void MX_USART1_UART_Init()	8	static
+main.cpp:477:13:void MX_GPIO_Init()	16	static
+main.cpp:496:6:void StartDefaultTask(const void*)	24	static
+main.cpp:519:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
+main.cpp:536:6:void Error_Handler()	4	static,ignoring_inline_asm

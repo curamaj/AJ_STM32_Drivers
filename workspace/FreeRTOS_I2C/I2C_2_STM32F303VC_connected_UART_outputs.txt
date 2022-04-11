@@ -1,0 +1,12 @@
+Output on Master:
+!!!Program Start!!!
+!!Master Init'd!!
+data_buf[0]: 0xff // data_buf on slave is init'd to 0xFF
+data_buf[0]: 0x10 // what we wrote data_buf to - 0x10.
+
+Output on Slave:
+!!!Program Start!!!
+!!Slave about to Init!!
+Read Transfer - Slave TX mode. TXDR: 0xff / data_buf: 0xff
+Write Transfer - Slave RX mode. data_buf: 0x10
+Read Transfer - Slave TX mode. TXDR: 0x10 / data_buf: 0x10

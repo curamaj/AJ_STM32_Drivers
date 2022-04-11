@@ -1,0 +1,456 @@
+Welcome to minicom 2.7.1
+
+OPTIONS: I18n 
+Compiled on Dec 23 2019, 02:06:26.
+Port /dev/ttyACM0, 08:52:34
+
+Press CTRL-A Z for help on special keys
+
+!!!Program Start!!!
+SPI_TxRx_write: 0x8f
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xd3
+SPI_TxRx_write: 0xa0
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xbf
+SPI_TxRx_write: 0x20
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_write: 0xbf
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_write: 0xa0
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xbf
+SPI_TxRx_write: 0xa3
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x90
+SPI_TxRx_write: 0x23
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_write: 0x90
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_write: 0xa3
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x90
+SPI_TxRx_write: 0xa4
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x42
+SPI_TxRx_write: 0x24
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_write: 0x42
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_write: 0xa4
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x42
+SPI_TxRx_write: 0xa6
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x15
+temperature data: 21
+SPI_TxRx_write: 0xa6
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x15
+temperature data: 21
+SPI_TxRx_write: 0xa6
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x15
+temperature data: 21
+SPI_TxRx_write: 0xa6
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x15
+temperature data: 21
+SPI_TxRx_write: 0xa6
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x15
+temperature data: 21
+SPI_TxRx_write: 0xae
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x40
+SPI_TxRx_write: 0x2e
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_write: 0x40
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_write: 0xae
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x40
+SPI_TxRx_write: 0xe8
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x0b
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xff
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xfa
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x03
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x00
+x_hi: 0x0b, x_lo: 0xff, x_data: -245 
+y_hi: 0xfa, y_lo: 0x00, y_data: 250 
+z_hi: 0x03, z_lo: 0x00, z_data: 3 
+SPI_TxRx_write: 0xe8
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xd2
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xff
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xf9
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xff
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x05
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xff
+x_hi: 0xd2, x_lo: 0xff, x_data: -46 
+y_hi: 0xf9, y_lo: 0xff, y_data: -7 
+z_hi: 0x05, z_lo: 0xff, z_data: -251 
+SPI_TxRx_write: 0xe8
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xef
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xff
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x0d
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xff
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xfb
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x00
+x_hi: 0xef, x_lo: 0xff, x_data: -17 
+y_hi: 0x0d, y_lo: 0xff, y_data: -243 
+z_hi: 0xfb, z_lo: 0x00, z_data: 251 
+SPI_TxRx_write: 0xe8
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xf2
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xff
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x02
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xff
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x14
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x00
+x_hi: 0xf2, x_lo: 0xff, x_data: -14 
+y_hi: 0x02, y_lo: 0xff, y_data: -254 
+z_hi: 0x14, z_lo: 0x00, z_data: 20 
+SPI_TxRx_write: 0xe8
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_write returned: 0x00
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xea
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xff
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xf7
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0xff
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x05
+SPI_TxRx_read.
+IRQ! TXE: 1 TXEIE: 1, RXNE: 0, RXNEIE: 0
+IRQ! TXE: 1 TXEIE: 0
+IRQ! TXE: 1 TXEIE: 0, RXNE: 1, RXNEIE: 1
+IRQ! RXE: 1 RXNEIE: 0
+TxRx_read returned: 0x00
+x_hi: 0xea, x_lo: 0xff, x_data: -22 
+y_hi: 0xf7, y_lo: 0xff, y_data: -9 
+z_hi: 0x05, z_lo: 0x00, z_data: 5 
+

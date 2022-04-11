@@ -1,0 +1,7 @@
+stm32f3xx_SPI.cpp:6:6:void delay_us_spi(uint16_t)	16	static
+stm32f3xx_SPI.cpp:12:1:LabSPI::LabSPI(LabSPI_InitStruct*)	16	static
+stm32f3xx_SPI.cpp:189:9:uint8_t LabSPI::SPI_transfer(uint8_t)	24	static
+stm32f3xx_SPI.cpp:337:9:uint8_t LabSPI::SPI_TxRx_read()	16	static
+stm32f3xx_SPI.cpp:346:9:uint8_t LabSPI::SPI_TxRx_write(uint8_t)	16	static
+stm32f3xx_SPI.cpp:355:9:uint8_t LabSPI::SPI_TxRx_writeln(uint8_t*, size_t)	32	static
+stm32f3xx_SPI.cpp:362:9:uint8_t LabSPI::SPI_TxRx(uint8_t)	24	static

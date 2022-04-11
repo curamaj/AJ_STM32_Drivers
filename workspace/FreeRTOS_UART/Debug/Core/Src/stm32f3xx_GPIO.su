@@ -1,0 +1,11 @@
+stm32f3xx_GPIO.cpp:51:1:LabGPIO_X::LabGPIO_X(LabGPIO_InitStruct*)	16	static
+stm32f3xx_GPIO.cpp:77:6:void LabGPIO_X::setAsInput()	24	static
+stm32f3xx_GPIO.cpp:83:6:void LabGPIO_X::setAsOutput()	24	static
+stm32f3xx_GPIO.cpp:91:6:void LabGPIO_X::setAsAlternate(uint8_t)	24	static
+stm32f3xx_GPIO.cpp:112:6:void LabGPIO_X::setDirection(bool)	16	static
+stm32f3xx_GPIO.cpp:116:6:void LabGPIO_X::setHigh()	16	static
+stm32f3xx_GPIO.cpp:122:6:void LabGPIO_X::setLow()	16	static
+stm32f3xx_GPIO.cpp:128:6:void LabGPIO_X::setAs(uint8_t)	16	static
+stm32f3xx_GPIO.cpp:136:6:void LabGPIO_X::setLevel(bool)	16	static
+stm32f3xx_GPIO.cpp:140:9:uint8_t LabGPIO_X::getDirection()	24	static
+stm32f3xx_GPIO.cpp:148:6:bool LabGPIO_X::getLevel()	32	static
