@@ -9,13 +9,13 @@ This codebase is targetting the STM32F303VC Discovery board.
 These are test programs I created so I could re-learn device driver programming & coding against a datasheet.
 
 Project code for each of the folders at this repo are primarily located under the following directory structure:
-  - FreeRTOS_<xyz>/
+  - FreeRTOS_`xyz`/
     - sample waveforms taken via Saleae Logic Analyzer will be attached here for each product.
     - likely will be a combo of salaea logic 2 `.sal` files + images.
-  - FreeRTOS_<xyz>/Core/Inc/
+  - FreeRTOS_`xyz`/Core/Inc/
     - main.hpp: unchanged.
     - FreeRTOSConfig.h: slightly changed to increase stack size while using FreeRTOS.
-  - FreeRTOS_<xyz>/Core/Src/
+  - FreeRTOS_`xyz`/Core/Src/
     - main.cpp: per-project main.cpp with test code to test out drivers.
     - stm32fxx_<GPIO/Interrupt/UART/SPI/I2C>.cpp/.hpp: driver code.
 
