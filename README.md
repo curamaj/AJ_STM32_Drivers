@@ -1,5 +1,5 @@
 # AJ_STM32_Dev
-Ajay's STM32 Drivers for GPIO/UART/SPI/I2C using C/C++ &amp; FreeRTOS.
+STM32 Drivers for GPIO/UART/SPI/I2C using C/C++ &amp; FreeRTOS.
 
 This codebase is targetting the STM32F303VC Discovery board.
   - STM32 Discovery Development board: https://www.st.com/en/evaluation-tools/stm32f3discovery.html#documentation
